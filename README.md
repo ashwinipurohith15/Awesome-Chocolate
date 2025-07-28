@@ -2,9 +2,11 @@
 
 ## Project objective
 
-The Awesome Chocolates wanted the headcount of the employees who are working in all departments, and the growth of the company as per the number of employees joined the company Over the period of Time. Get the result from New Zealand and India Regions. 
+Awesome Chocolate is a new sweet treat company that is trying to build its brand and establish itself internationally. The owner would like some reports created to see how his salespeople are doing, as well as the products & business in general.
+The owner was able to provide me with transaction data as well as product data. I acted as the company's Business Analyst where I explored the provided data and returned to the owner with reports containing useful insights for the business.
 
 ## Dataset Used
+
 - <a href= "https://github.com/ashwinipurohith15/Awesome-Chocolate/blob/main/Data%20File.xlsx">Dataset</a>
 
 ## Questions
